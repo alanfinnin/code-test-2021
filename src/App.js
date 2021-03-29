@@ -1,5 +1,4 @@
 import logo from './logo.svg';
-import './App.css';
 import DateTime from './DateTime.js';
 
 function App() {
